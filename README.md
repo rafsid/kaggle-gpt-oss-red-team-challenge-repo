@@ -24,8 +24,17 @@ This repository contains:
 
 ## 🔐 Access Information
 
-This repository is maintained as **private** for organizational purposes.  
-All included write-ups were originally published on Kaggle under the **CC0 (Public Domain)** license and remain freely available on the competition page.
+This repository is maintained as **private** for organizational and curation purposes.  
+All included write-ups were originally published under the **CC0 (Public Domain)** license on Kaggle.  
+
+To request access:
+1. Open an issue with the title **"Access Request"**  
+2. State your intended use (e.g., research, learning, contribution)  
+3. Access will be granted after review  
+
+⚠️ Note: These materials remain freely available on [Kaggle](https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming).  
+This repo exists to provide a curated, organized version.
+
 
 ## 🎯 What is Red Teaming in AI?
 
